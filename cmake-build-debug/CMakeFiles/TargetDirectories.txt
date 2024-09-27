@@ -1,0 +1,3 @@
+/Users/nicobartello/Library/CloudStorage/OneDrive-UniversityofPittsburgh/449 Intro to Systems Software/Thoth/Project4C/cmake-build-debug/CMakeFiles/Project4C.dir
+/Users/nicobartello/Library/CloudStorage/OneDrive-UniversityofPittsburgh/449 Intro to Systems Software/Thoth/Project4C/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nicobartello/Library/CloudStorage/OneDrive-UniversityofPittsburgh/449 Intro to Systems Software/Thoth/Project4C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
